@@ -1,5 +1,5 @@
 # Assignment 2
-This repository contains report of Assignment 2.  
+
 **Name:** Aadya Dubey  
 **Sap ID:** 590029213  
 **Batch NO.:** B.Tech. CSE B77 (2025-29)  
